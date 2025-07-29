@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  application:
+  - apiVersion: v2
+    appVersion: 1.16.7
+    created: "2025-07-29T06:33:23.25202363Z"
+    description: A Helm chart update for new version with traffic to 100%
+    digest: c7cf2f9dde5d9869d114bc527bbf73af6d1cd58057d5fd4f50c37dc1410f47d5
+    name: application
+    type: application
+    urls:
+    - application-0.1.7.tgz
+    version: 0.1.7
+generated: "2025-07-29T06:33:23.251207087Z"
