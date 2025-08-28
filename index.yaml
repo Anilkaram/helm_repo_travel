@@ -3,12 +3,12 @@ entries:
   application:
   - apiVersion: v2
     appVersion: 1.16.7
-    created: "2025-08-28T09:22:21.862683887Z"
+    created: "2025-08-28T09:22:37.375694953Z"
     description: A Helm chart update for new version with traffic to 100%
-    digest: 71aec773194e4df885c01475aa191e6f02f511ad6d30f39c2c6bea1259fd5ae8
+    digest: 8f0a1928ef5175a0a192c24657822c7b5a1c777ddec95a34e74c80418a3ec21d
     name: application
     type: application
     urls:
     - https://anilkaram.github.io/helm_repo_travel/application-0.1.7.tgz
     version: 0.1.7
-generated: "2025-08-28T09:22:21.860723339Z"
+generated: "2025-08-28T09:22:37.372812589Z"
